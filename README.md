@@ -5,14 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyukthakapoor&label=Profile%20views&color=0e75b6&style=flat" alt="samyukthakapoor" /> </p>
 
-- 🔭 I’m currently working on [VirtuChef: Database Integration Project](https://github.com/SamyukthaKapoor/VirtuChef)
+🌱 I’m currently learning advanced data analytics techniques and tools. My learning journey includes data management with SQL, data mining using RapidMiner, and algorithm development with Python and libraries like Scikit-learn, TensorFlow, PyTorch, and Keras. I'm also exploring computation platforms like Apache Spark and enhancing my data visualization skills with Tableau, Power BI, Flourish, and Datawrapper. This comprehensive skill set is equipping me to excel in the diverse field of data science.
 
-- 🌱 I’m currently learning **a dynamic exploration of data tools and frameworks. My learning journey encompasses data management systems like SQL, data mining techniques with tools such as RapidMiner, and algorithm development using Python and its robust libraries like Scikit-learn, TensorFlow, PyTorch, and Keras. I delve into computation with platforms like Apache Spark and bring insights to life through visualization tools such as Tableau, Power BI, Flourish, and Datawrapper. This holistic skill set is shaping my proficiency to navigate the diverse landscapes of data science.**
+👨‍💻 All of my projects are available at my Portfolio Website: https://t.ly/swJ9p
 
-- 👨‍💻 All of my projects are available at my Portfolio Website: [https://t.ly/swJ9p](https://t.ly/swJ9p)
-
-- 💬 Ask me about **navigating the realms of data and tech! Join me for a virtual coffee, and let's delve into the nuances of optimizing SQL queries, unraveling the art of data visualization, and exploring the endless possibilities within data analytics and engineering. Plus, discover my passion for harnessing AI in healthcare for predictive analysis and early detection of diseases. There's a rich tapestry of topics to discuss over a cup of virtual coffee!**
-
+💬 Ask me about navigating the realms of data and tech! Join me for a virtual coffee to discuss optimizing SQL queries, mastering data visualization, and exploring the potential of data analytics and engineering. Let's also delve into my passion for applying AI in healthcare for predictive analysis and early disease detection. There are endless possibilities to explore over a virtual coffee!
 - 📫 You can reach out to me at: **samyukthakapoorrajeshkapoor@gmail.com**
 
 - ⚡ Fun fact: **Master's student but I've got a Ph.D at Imposter Syndrome.**
