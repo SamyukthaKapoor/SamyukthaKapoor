@@ -7,10 +7,10 @@
 
 🌱 I’m currently learning advanced data analytics techniques and tools. My learning journey includes data management with SQL, data mining using RapidMiner, and algorithm development with Python and libraries like Scikit-learn, TensorFlow, PyTorch, and Keras. I'm also exploring computation platforms like Apache Spark and enhancing my data visualization skills with Tableau, Power BI, Flourish, and Datawrapper. This comprehensive skill set is equipping me to excel in the diverse field of data science.
 
-👨‍💻 All of my projects are available at my Portfolio Website: https://t.ly/swJ9p
+👨‍💻 All of my projects are available at my Portfolio Website: https://www.datascienceportfol.io/Samyukthakapoor
 
 💬 Ask me about navigating the realms of data and tech! Join me for a virtual coffee to discuss optimizing SQL queries, mastering data visualization, and exploring the potential of data analytics and engineering. Let's also delve into my passion for applying AI in healthcare for predictive analysis and early disease detection. There are endless possibilities to explore over a virtual coffee!
-- 📫 You can reach out to me at: **samyukthakapoorrajeshkapoor@gmail.com**
+- 📫 You can reach out to me at: **raajeshkapoor.s@northeastern.edu**
 
 - ⚡ Fun fact: **Master's student but I've got a Ph.D at Imposter Syndrome.**
 
