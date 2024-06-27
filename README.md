@@ -1,5 +1,3 @@
-[![MasterHead](![Uploading image.png…]()
-)
 <h1 align="center">Hello, I'm Samyuktha Kapoor!</h1>
 <h3 align="center">I'm a data enthusiast on a journey through information. With curiosity as my guide, I uncover insights and shape them into innovations that make a difference. In the words of Michael Scott, 'Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love my data-driven impact.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
