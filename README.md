@@ -1,15 +1,16 @@
-# Hello, I'm Sam! 👋
+# Hello, I'm Sam!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Data Analysis GIF">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Data Visualization GIF">
 </p>
 
-## 📊 Data Enthusiast | Business Analyst | BI Developer
+## 📊 Data Storyteller | Business Analyst | BI Developer
 
-I'm passionate about transforming raw data into meaningful insights that drive decision-making. As Michael Scott would say, "I'm not superstitious, but I am a little stitious" about data quality.
+I'm passionate about transforming raw data into meaningful insights that drive decision-making. With a special interest in clean energy analytics, I believe data visualization is where science meets art - creating beautiful dashboards that tell compelling stories and empower strategic decisions.
 
 - 🔭 Currently working as **Data Business Analyst** at **Massachusetts Clean Energy Center**
 - 🌱 Learning advanced techniques in **data warehousing**, **ETL processes**, and **business intelligence**
+- 💡 Dedicated to using data analytics to support sustainable energy initiatives and climate tech innovation
 - 🎯 Skilled in **SQL**, **Python**, **PowerBI**, **Tableau**, and **data visualization**
 - ☕ When not crunching numbers, you'll find me perfecting my coffee station or baking something delicious
 - 🎵 Background music while coding: Lana Del Rey
@@ -42,7 +43,7 @@ Machine Learning   ██████████████░░░░░░�
 <p align="center">
   <a href="https://www.linkedin.com/in/samyukthakapoor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:raajeshkapoor.s@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.datascenceportfol.io/Samyukthakapoor"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.datascienceportfol.io/Samyukthakapoor"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">
@@ -57,12 +58,10 @@ Machine Learning   ██████████████░░░░░░�
   <summary>✨ Fun Facts</summary>
   <ul>
     <li>I have a dedicated coffee and matcha station at home</li>
-    <li>My baking specialty is tarts and cakes</li>
+    <li>My baking specialty is [your specialty dessert]</li>
     <li>I can recite most episodes of Parks and Recreation</li>
   </ul>
 </details>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SamyukthaKapoor.SamyukthaKapoor)
 
 <!--
 **ProTip:** Remember to update this README as your skills and projects evolve!
