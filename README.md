@@ -63,7 +63,7 @@ Machine Learning   ██████████████░░░░░░�
   <p align="center">
     <img src="https://media.giphy.com/media/dXFKDUolyLLi8gq6Cl/giphy.gif" width="300" alt="Michael Scott Quote GIF">
     <br>
-    <em>"Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me." - Michael Scott</em>
+    <em>"You miss 100% of the shots you dont take" - Michael Scott</em>
   </p>
 </details>
 
