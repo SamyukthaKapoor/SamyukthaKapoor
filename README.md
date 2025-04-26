@@ -1,7 +1,5 @@
 # Hello, I'm Sam! 💗
 
-# Hello, I'm Samyuktha Kapoor! 🍵
-
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Minimalist data visualization">
 </p>
