@@ -1,7 +1,9 @@
 # Hello, I'm Sam! 💗
 
+# Hello, I'm Samyuktha Kapoor! 🍵
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl3OXprM2I0bzF3YWJqajIwbm5vdHZ5NDQ3YWRpejE3YWZkNHV3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" width="500" alt="Aesthetic data visualization">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="500" alt="Cute anime girl coding">
 </p>
 
 I'm passionate about transforming raw data into meaningful insights that drive decision-making. With a special interest in clean energy analytics, I believe data visualization is where science meets art - creating beautiful dashboards that tell compelling stories and empower strategic decisions.
@@ -45,9 +47,9 @@ Machine Learning   ██████████████░░░░░░�
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" alt="Office GIF">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="Cute coffee GIF">
   <br>
-  <em>"I'm not saying I'm Stanley from The Office, but we both love our coffee breaks."</em>
+  <em>"Life happens, coffee helps, data makes it interesting."</em>
 </p>
 
 ---
@@ -55,8 +57,9 @@ Machine Learning   ██████████████░░░░░░�
 <details>
   <summary>✨ Fun Facts</summary>
   <ul>
-    <li>I have a dedicated coffee and matcha station at home</li>
-    <li>My baking specialty is [your specialty dessert]</li>
+    <li>I have a dedicated coffee and matcha station that I love to film</li>
+    <li>My baking specialty is tarts and tea cakes</li>
+    <li>I spend weekends teaching kids to code and caring for my plants</li>
     <li>I can recite most episodes of Parks and Recreation</li>
   </ul>
 </details>
