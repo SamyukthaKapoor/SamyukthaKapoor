@@ -1,8 +1,13 @@
 # Hello, I'm Sam! 💗
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Data Visualization">
-  <img src="https://media.giphy.com/media/fuvY5bSM9ZKmYcAX4A/giphy.gif" width="200" alt="Matcha">
+  <img src="https://i.imgur.com/PkBAmzx.jpg" width="500" alt="Aesthetic workspace with matcha and laptop">
+</p>
+
+## 📊 Data Storyteller | Business Analyst | BI Developer
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Data Visualization Animation">
 </p>
 
 ## 📊 Data Storyteller | Business Analyst | BI Developer ☕
