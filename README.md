@@ -11,7 +11,7 @@ I'm passionate about transforming raw data into meaningful insights that drive d
 - 💡 Dedicated to using data analytics to support sustainable energy initiatives and climate tech innovation
 - 🎯 Skilled in **SQL**, **Python**, **PowerBI**, **Tableau**, and **data visualization**
 - ☕ When not crunching numbers, you'll find me perfecting my coffee station or baking something delicious
-- 🎵 Background music while coding: Lana Del Rey
+- 🎵 Background music while coding: Lana Del Rey or Artic Monkeys for sure
 
 ## 💼 Professional Experience
 
