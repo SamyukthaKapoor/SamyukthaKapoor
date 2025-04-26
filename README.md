@@ -58,8 +58,14 @@ Machine Learning   ██████████████░░░░░░�
     <li>I have a dedicated coffee and matcha station that I love to film</li>
     <li>My baking specialty is tarts and tea cakes</li>
     <li>I spend weekends teaching kids to code and caring for my plants</li>
-    <li>I can recite most episodes of Parks and Recreation</li>
+    <li>I can recite most episodes of Parks and Recreation and Office for you</li>
   </ul>
+  
+  <p align="center">
+    <img src="https://media.giphy.com/media/dXFKDUolyLLi8gq6Cl/giphy.gif" width="300" alt="Michael Scott Quote GIF">
+    <br>
+    <em>"Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me." - Michael Scott</em>
+  </p>
 </details>
 
 <!--
