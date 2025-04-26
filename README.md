@@ -1,7 +1,7 @@
 # Hello, I'm Sam! 💗
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Woman working with data">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl3OXprM2I0bzF3YWJqajIwbm5vdHZ5NDQ3YWRpejE3YWZkNHV3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" width="500" alt="Aesthetic data visualization">
 </p>
 
 I'm passionate about transforming raw data into meaningful insights that drive decision-making. With a special interest in clean energy analytics, I believe data visualization is where science meets art - creating beautiful dashboards that tell compelling stories and empower strategic decisions.
