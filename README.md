@@ -11,7 +11,7 @@ I'm passionate about transforming raw data into meaningful insights that drive d
 - 💡 Dedicated to using data analytics to support sustainable energy initiatives and climate tech innovation
 - 🎯 Skilled in **SQL**, **Python**, **PowerBI**, **Tableau**, and **data visualization**
 - ☕ When not crunching numbers, you'll find me perfecting my coffee station or baking something delicious
-- 🎵 Background music while coding: Lana Del Rey or Artic Monkeys for sure
+- 🎵 Background music while coding: Lana Del Rey
 
 ## 💼 Professional Experience
 
@@ -39,9 +39,9 @@ Machine Learning   ██████████████░░░░░░�
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samyukthakapoor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:raajeshkapoor.s@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.datascienceportfol.io/Samyukthakapoor"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/samyukthakapoor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:raajeshkapoor.s@northeastern.edu" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.datascienceportfol.io/Samyukthakapoor" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">
@@ -57,8 +57,8 @@ Machine Learning   ██████████████░░░░░░�
   <ul>
     <li>I have a dedicated coffee and matcha station that I love to film</li>
     <li>My baking specialty is tarts and tea cakes</li>
-    <li>I spend weekends teaching kids to code and caring for my plants</li>
-    <li>I can recite most episodes of Parks and Recreation and Office for you</li>
+    <li>I spend weekends teaching kids</li>
+    <li>I can recite most episodes of Parks and Recreation</li>
   </ul>
   
   <p align="center">
