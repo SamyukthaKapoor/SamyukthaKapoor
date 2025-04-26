@@ -1,10 +1,10 @@
-# Hello, I'm Sam!
+# Hello, I'm Sam! 💗
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Data Visualization GIF">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" alt="Data Visualization GIF">
 </p>
 
-## 📊 Data Storyteller | Business Analyst | BI Developer
+## 📊 Data Storyteller | Business Analyst | BI Developer ☕
 
 I'm passionate about transforming raw data into meaningful insights that drive decision-making. With a special interest in clean energy analytics, I believe data visualization is where science meets art - creating beautiful dashboards that tell compelling stories and empower strategic decisions.
 
