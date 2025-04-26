@@ -1,9 +1,7 @@
 # Hello, I'm Sam! 💗
 
-# Hello, I'm Samyuktha Kapoor! 🍵
-
 <p align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="500" alt="Cute anime girl coding">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Minimalist data visualization">
 </p>
 
 I'm passionate about transforming raw data into meaningful insights that drive decision-making. With a special interest in clean energy analytics, I believe data visualization is where science meets art - creating beautiful dashboards that tell compelling stories and empower strategic decisions.
