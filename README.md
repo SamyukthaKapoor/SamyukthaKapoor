@@ -1,5 +1,7 @@
 # Hello, I'm Sam! 💗
 
+# Hello, I'm Samyuktha Kapoor! 🍵
+
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Minimalist data visualization">
 </p>
@@ -40,7 +42,6 @@ Machine Learning   ██████████████░░░░░░�
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samyukthakapoor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:raajeshkapoor.s@northeastern.edu" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.datascienceportfol.io/Samyukthakapoor" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"></a>
 </p>
 
