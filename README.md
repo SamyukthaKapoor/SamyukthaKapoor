@@ -56,7 +56,7 @@ Machine Learning   ██████████████░░░░░░�
   <ul>
     <li>I have a dedicated coffee and matcha station that I love to film</li>
     <li>My baking specialty is tarts and tea cakes</li>
-    <li>I spend weekends teaching kids</li>
+    <li>I spend weekends teaching kids basics of coding</li>
     <li>I can recite most episodes of Parks and Recreation</li>
   </ul>
   
